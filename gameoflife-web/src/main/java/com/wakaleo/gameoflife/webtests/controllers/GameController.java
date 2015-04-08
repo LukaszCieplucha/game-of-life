@@ -67,6 +67,7 @@ public class GameController {
                 universe.setDeadCellAt(row, column);
             }
         }
+	ZEPSULEM KOD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
         return universe;
     }
 
